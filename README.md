@@ -1,4 +1,4 @@
-# iOS Swift Tutorial: App like Twitter with Cloud Firestore Database
+# iOS Swift Tutorial: App like Twitter with Firestore Cloud Database
 
 In this tutorial you are going to create a simple app like Twitter. You will use the new cloud database Firestore from Google. You’ll learn how to add data, how to perform simple queries and how to listen for realtime updates. 
 
